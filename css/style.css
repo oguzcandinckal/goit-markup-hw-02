@@ -14,7 +14,7 @@ body{
   font-family:"Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.7;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -105,7 +105,7 @@ color: #ffffff;
 .section-title{
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.5;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -125,7 +125,7 @@ color: #ffffff;
 
 .two-section-title{
   font-size: 36px;
-  line-height: 1.11;
+  line-height: 1.2;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -138,15 +138,31 @@ color: #ffffff;
 
 /*footer*/
 
+.ending .logo {
+ font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.ending .logo .logo-span{
+  background-color: #f4f4fd;
+}
 .ending{
   background-color: #2e2f42;
 }
 .ending-y{
+  font-size: 16px;
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+
 }
 
 .ending-logo-span{
   color: #f4f4fd;
+
 }
