@@ -1,0 +1,152 @@
+/*BODY*/
+body{
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+.house-nav{
+  background-color: #ffffff;
+  
+}
+/*nov logo*/
+.logo{
+  font-family:"Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.logo-span{
+  color: #2e2f42;
+}
+
+
+/*nav linkleri*/
+.nav-link{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+
+.nav-link:hover{
+color: #404bbf;
+}
+
+.nav-link:focus{
+color: #404bbf;
+}
+
+.nav-adres{
+font-style: normal;
+}
+/*adresler*/
+
+.adres-link{
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.adres-link:hover{
+color: #404bbf;
+}
+
+.adres-link:focus{
+color: #404bbf;
+}
+.adres-link:active{
+color: #404bbf;
+}
+
+/*ilk section*/
+
+.one-secition{
+background-color: #2e2f42;
+}
+
+.one-section-title{
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #ffffff;
+}
+
+.buton {
+  background-color: #4d5ae5;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+
+.buton:focus{
+  background-color: #404bbf;
+  cursor: pointer;
+}
+
+.buton:hover{
+  background-color: #404bbf;
+}
+
+/*ikinci section*/
+
+.section-title{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.section-y{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/*üçüncü section*/
+
+.two-section{
+  background-color: #f4f4fd;
+}
+
+.two-section-title{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.two-section-li{
+  background-color: #ffffff; 
+}
+
+/*footer*/
+
+.ending{
+  background-color: #2e2f42;
+}
+.ending-y{
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
+
+.ending-logo-span{
+  color: #f4f4fd;
+}
